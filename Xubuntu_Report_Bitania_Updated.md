@@ -143,9 +143,9 @@ development.
 ---
 
 
-## installation-step
+## Installation steps
 
-Hre are the installatiion steps
+Hre are the installatiion processes step by step
 
 
 ## Common Issues and Solutions
