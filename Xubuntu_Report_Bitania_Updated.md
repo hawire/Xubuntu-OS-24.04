@@ -140,6 +140,12 @@ development.
 
 ---
 
+
+## installation-step
+
+Hre are the installatiion steps
+
+
 ## Common Issues and Solutions
 
 While installing and working with Xubuntu, we would encounter several challenges that 
@@ -313,11 +319,10 @@ according to one’s specific goals and preferences.
 
 ---
 
-# installation-step
 
 
 
----
+
 
 ## Future Outlook
 
