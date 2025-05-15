@@ -15,6 +15,7 @@
 - [Introduction](#introduction)
 - [Objective](#objective)
 - [Requirements](#requirements)
+- [Installation steps](#installation-steps).
 - [Common Issues and Solutions](#common-issues-and-solutions)
 - [File System Support](#file-system-support)
 - [Advantages and Disadvantages](#advantages-and-disadvantages)
@@ -22,6 +23,7 @@
 - [Future Outlook](#future-outlook)
 - [Virtualization](#virtualization)
 - [Resources](#resources)
+  
 
 ---
 
@@ -614,13 +616,14 @@ Virtual desktop infrastructure runs virtual desktops on a remote server. Your us
 them by using client devices. 
 
 
-- Local desktop virtualization 
-
-
+- Local desktop virtualization
+  
 In local desktop virtualization, you run the hypervisor on a local computer and create a virtual 
 computer with a different operating system. You can switch between your local and virtual 
 environment in the same way you can switch between applications. 
 ---
+
+
 
 ## Resources
 
