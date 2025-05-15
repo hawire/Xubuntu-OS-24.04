@@ -313,6 +313,12 @@ according to one’s specific goals and preferences.
 
 ---
 
+## Installation step
+
+
+
+---
+
 ## Future Outlook
 
 Xubuntu continues to evolve with each release, responding to user feedback and broader 
