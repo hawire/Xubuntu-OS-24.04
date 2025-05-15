@@ -617,10 +617,9 @@ them by using client devices.
 
 
 - Local desktop virtualization
-  
-In local desktop virtualization, you run the hypervisor on a local computer and create a virtual 
-computer with a different operating system. You can switch between your local and virtual 
+In local desktop virtualization, you run the hypervisor on a local computer and create a virtual computer with a different operating system. You can switch between your local and virtual 
 environment in the same way you can switch between applications. 
+
 ---
 
 
