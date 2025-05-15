@@ -142,11 +142,83 @@ development.
 
 ## Common Issues and Solutions
 
-1. Boot Issues: Adjust BIOS settings to prioritize USB boot.
-2. Disk Partitioning Errors: Define root partition (`/`) using ext4 filesystem.
-3. Hardware Compatibility: Install drivers using “Additional Drivers” utility.
-4. Performance Limitations: Disable unnecessary startup apps.
-5. Wi-Fi Issues: Connect via Ethernet during installation.
+While installing and working with Xubuntu, we would encounter several challenges that 
+requires troubleshooting. Below are the most notable issues we face and the approaches we 
+can use to resolve them. 
+
+
+1. Booting Problems
+
+   
+  - Issue: The system failed to boot from the USB installation media. 
+  - Solution: After verifying that the bootable USB was created properly using Rufus, adjust the 
+BIOS settings to ensure the system prioritized USB boot. Switching between UEFI and 
+Legacy modes was also necessary, depending on how the installation media had been 
+configured.
+
+ 
+2. Disk Partitioning Errors
+
+   
+  - Issue: During installation, an error stating “No root file system defined” appeared. 
+  - Solution: select the manual partitioning option and ensured that a root partition (/) was 
+defined using the ext4 file system. This step was essential for the installer to proceed 
+correctly.
+
+
+3. Hardware Compatibility
+
+    
+  - Issue: Some hardware components, particularly Wi-Fi and graphics drivers, did not function 
+correctly after installation. 
+  - Solution: use Xubuntu’s built-in “Additional Drivers” utility to install the recommended 
+proprietary drivers. For components not automatically supported, refer to official forums and 
+community documentation, which provided reliable solutions.
+
+
+4. Performance Limitations on Older Hardware
+
+   
+  - Issue: Despite Xubuntu’s lightweight design, performance was sluggish on very old 
+hardware. 
+  - Solution: review the minimum system requirements and disabled unnecessary startup 
+applications to free up memory. In some cases, hardware upgrades may be the only viable 
+long-term solution.
+
+
+5. Internet Connectivity During Installation
+
+     
+  - Issue: Without a working Wi-Fi driver, the installer could not download updates or language 
+packs. 
+  - Solution: connect the system directly to a router via Ethernet. After installation, I manually 
+installed missing drivers to enable wireless connectivity.
+
+
+6. UEFI and Legacy Boot Mode Confusion
+
+    
+  - Issue: The installation failed due to a mismatch between the system’s boot mode and the 
+partition table (GPT vs MBR). 
+  - Solution: ensure consistency by booting the installation media in the same mode as the target 
+system. For UEFI mode, I used a GPT partition scheme; for Legacy mode, MBR.
+
+
+7. Slow Installation Process 
+
+
+  - Issue: One of the installation attempts took unusually long to complete. 
+  - Solution:  check the integrity of the ISO file and recreated the bootable USB on a different 
+flash drive. The process was significantly faster after doing so. 
+
+
+8. BIOS Prompt for Confirmation Key
+
+    
+  - Issue: During installation, the BIOS repeatedly prompted for a security confirmation key, 
+which delayed progress. 
+  - Solution: After researching the specific BIOS error and cross-checking with my system 
+manufacturer’s documentation, locate the correct key and was able to proceed.
 
 ---
 
