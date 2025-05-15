@@ -15,7 +15,7 @@
 - [Introduction](#introduction)
 - [Objective](#objective)
 - [Requirements](#requirements)
-- [Installation steps](#installation-steps).
+- [Installation steps](#installation-steps)
 - [Common Issues and Solutions](#common-issues-and-solutions)
 - [File System Support](#file-system-support)
 - [Advantages and Disadvantages](#advantages-and-disadvantages)
