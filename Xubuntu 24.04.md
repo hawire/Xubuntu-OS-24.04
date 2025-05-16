@@ -1,6 +1,6 @@
-![Xubuntu](installation steps.md/Screenshot (850).png)
 
 
+![Uploading R.jpg…]()
 
 
 
