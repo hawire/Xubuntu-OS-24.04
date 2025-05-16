@@ -1,4 +1,15 @@
 
+<img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/Screenshot%20(850).png?raw=true
+" width="800">
+<p>XUBUNTU</p>
+
+
+
+
+
+
+
+
 # OSSP Individual Report - Xubuntu Operating System
 
 **Author:** Bitania Fnoteselam  
@@ -11,9 +22,7 @@
 
 
 
-<img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/Screenshot%20(850).png?raw=true
-" width="800">
-<p>XUBUNTU</p>
+
 
 
 
