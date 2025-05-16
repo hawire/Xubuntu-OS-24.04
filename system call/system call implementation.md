@@ -86,3 +86,18 @@ default:
 } 
 
 ```
+
+
+## *rmdir() Command* 
+The rmdir() command in Linux is used to remove empty directories. It is part of the 
+standard Unix/Linux command set and works only if the directory is empty. 
+rmdir <directory_name> 
+
+-  If the directory contains files or subdirectories, rmdir() will fail with an error message: 
+Directory not empty. 
+-  To remove non-empty directories, you can use the rm command with the -r option: 
+rm -r <directory_name> 
+-  Be cautious when using rm -r as it recursively deletes all contents within the directory. 
+-  For added safety, avoid using the -f option unless absolutely necessary, as it forces 
+deletion without prompts
+
