@@ -1,7 +1,5 @@
+![Xubuntu](installation steps.md/Screenshot (850).png)
 
-<img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/Screenshot%20(850).png?raw=true
-" width="800">
-<p>XUBUNTU</p>
 
 
 
