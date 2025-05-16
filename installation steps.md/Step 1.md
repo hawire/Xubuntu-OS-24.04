@@ -36,6 +36,12 @@
 
 <img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/photo_2025-05-15_11-33-21%20(2).jpg?raw=true" alt="xubuntu page" width="600">
 <p>Then the screen will look like this.</p>
+
+
+<img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/photo_2025-05-15_11-33-11.jpg?raw=true" alt="before installation" width="600">
+<p>Step 9 : Before the installation the Xubuntu will look like this .</p>
+
+
 <p>To install it permanently follow the following steps</p>
 
 
@@ -77,6 +83,18 @@
 
 
 <p float="left">  
-    <img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/Screenshot%20(847).png?raw=true" alt="install " width="45%">
+    <img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/Screenshot%20(847).png?raw=true" alt="timezone " width="45%">
     <img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/Screenshot%20(848).png?raw=true" alt="install " width="45%">
 </p>
+
+
+<img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/Screenshot%20(849).png?raw=true" alt="restart " width="600">
+<p>Step 18 : Finally Restart to complete the installation .</p>
+
+
+<img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/photo_2025-05-15_11-10-49.jpg?raw=true" alt="password " width="600">
+<p>Step 19 : Insert the password that you gave before .</p>
+
+
+<img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/Screenshot%20(855).png?raw=true" alt="Xubuntu screen " width="600">
+<p>Step 20 :After the installation the Xubuntu will look like this .</p>
