@@ -36,3 +36,21 @@
 
 <img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/photo_2025-05-15_11-33-21%20(2).jpg?raw=true" alt="xubuntu page" width="600">
 <p>Then the screen will look like this.</p>
+<p>To install it permanently follow the following steps</p>
+
+
+<img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/photo_2025-05-15_11-33-21.jpg?raw=true" alt="choose language" width="600">
+<p>Step 9 : Choose the language.</p>
+
+
+<img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/photo_2025-05-15_11-33-24.jpg?raw=true" alt="choose keyboard layout" width="600">
+<p>Step 10 : Choose the keyboard layout.</p>
+
+
+
+<img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/photo_2025-05-15_11-33-29.jpg?raw=true" alt="internet connection " width="600">
+<p>Step 11 : Use wired connection to the internet.</p>
+
+
+<img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/photo_2025-05-15_11-33-27.jpg?raw=true" alt="way to install xubuntu " width="600">
+<p>Step 12 : Use interactive installation to be guided step by step.</p>
