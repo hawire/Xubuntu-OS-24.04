@@ -54,3 +54,29 @@
 
 <img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/photo_2025-05-15_11-33-27.jpg?raw=true" alt="way to install xubuntu " width="600">
 <p>Step 12 : Use interactive installation to be guided step by step.</p>
+
+
+<img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/photo_2025-05-15_11-33-31.jpg?raw=true" alt="apps " width="600">
+<p>Step 13 : Select a full featured Xubuntu Desktop .</p>
+
+
+
+<img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/photo_2025-05-15_11-33-26.jpg?raw=true" alt="software " width="600">
+<p>Step 14 : Select the type of recommended installation proprietary software.</p>
+
+
+<img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/photo_2025-05-15_11-33-28.jpg?raw=true" alt="install " width="600">
+<p>Step 15 :Select erase disk and install Xubuntu .</p>
+
+
+<img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/photo_2025-05-15_11-10-47.jpg?raw=true" alt="account " width="600">
+<p>Step 16 :Create your account approprately .</p>
+
+
+<p>Step 17 : Then select the time zone finally click on install</p>
+
+
+<p float="left">  
+    <img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/Screenshot%20(847).png?raw=true" alt="install " width="45%">
+    <img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/Screenshot%20(848).png?raw=true" alt="install " width="45%">
+</p>
