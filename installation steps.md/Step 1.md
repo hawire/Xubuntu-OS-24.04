@@ -32,3 +32,7 @@
 
 <img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/photo_2025-05-15_11-33-09.jpg?raw=true" alt="install on virtualbox" width="600">
 <p>Step 8 : click on  "Try or Install Xubuntu" to install Xubuntu OS.</p>
+
+
+<img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/photo_2025-05-15_11-33-21%20(2).jpg?raw=true" alt="xubuntu page" width="600">
+<p>Then the screen will look like this.</p>
