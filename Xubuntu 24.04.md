@@ -163,7 +163,7 @@ development.
 
 ## Installation steps
 
-Hre are the installatiion processes step by step
+
 
 
 ## Common Issues and Solutions
