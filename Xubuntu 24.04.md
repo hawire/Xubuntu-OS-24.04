@@ -164,6 +164,7 @@ development.
 ## Installation steps
 
 
+[Installation steps](Installation.md/Steps.md)
 
 
 ## Common Issues and Solutions
