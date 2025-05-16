@@ -107,8 +107,8 @@
 
 
 <p float="left">  
-    <img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/Screenshot%20(847).png?raw=true" alt="timezone " width="50%">
-    <img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/Screenshot%20(848).png?raw=true" alt="install " width="50%">
+    <img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/Screenshot%20(847).png?raw=true" alt="timezone " width="49%">
+    <img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/Screenshot%20(848).png?raw=true" alt="install " width="49%">
 </p>
 
 
