@@ -1,6 +1,7 @@
 
 
-![R](https://github.com/user-attachments/assets/f63efd53-dc2c-4757-a650-15cee679675f)
+![Uploading Xubuntu.png…]()
+
 
 
 
