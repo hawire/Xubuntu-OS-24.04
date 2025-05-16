@@ -69,7 +69,7 @@
 <p>Step 15 :Select erase disk and install Xubuntu .</p>
 
 
-<img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/photo_2025-05-15_11-10-47.jpg?raw=true" alt="account " width="400">
+<img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/photo_2025-05-15_11-10-47.jpg?raw=true" alt="account " width="480">
 <p>Step 16 :Create your account approprately .</p>
 
 
