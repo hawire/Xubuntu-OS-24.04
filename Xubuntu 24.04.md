@@ -1,6 +1,6 @@
 
 
-![Uploading Xubuntu.png…]()
+![Xubuntu](https://github.com/user-attachments/assets/abd29fdc-f08a-4eb3-8ec2-f54e882ff2b6)
 
 
 
