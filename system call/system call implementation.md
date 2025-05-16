@@ -19,25 +19,25 @@ of the POSIX standard and is implemented in the Linux kernel. The directory must
 - Invalid Path: Verify the directory path exists and is correct.
 
   
-  **System Call Invocation:**
+**System Call Invocation:**
   When you call rmdir() in your program, it interacts with the 
 kernel to perform the operation. The kernel checks the directory's attributes and ensures it 
 meets the conditions for removal.
 
 
-  **Conditions for Success:** 
+**Conditions for Success:** 
    - The directory must be empty. 
    - The user must have write and execute permissions on the parent directory. 
    - The filesystem must support directory removal (e.g., ext4, Btrfs, etc.).
      
 
-  **Kernel-Level Operations:** 
+**Kernel-Level Operations:** 
    - The kernel verifies that the directory is empty by checking its inode.
    - If the directory is empty, the kernel removes the directory entry from its parent directory.
    - The inode associated with the directory is deallocated.
 
 
-  **Return Values**
+**Return Values**
 - Success: Returns 0. 
 - Failure: Returns -1 and sets errno to indicate the error. 
 
