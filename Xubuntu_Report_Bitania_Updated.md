@@ -9,6 +9,14 @@
 
 ---
 
+
+
+<img src="https://github.com/hawire/Xubuntu-OS-24.04/blob/main/installation%20steps.md/Screenshot%20(850).png?raw=true
+" width="800">
+
+
+
+
 ## 📋 Table of Contents
 
 - [What is Xubuntu?](#what-is-xubuntu)
